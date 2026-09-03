@@ -5,9 +5,9 @@ website:
   title: "glodb-website"
   navbar:
     left:
-      - href: index.qmd
+      - href: about.qmd
         text: Home
-      - about.qmd
+      - download.qmd
       - contact.qmd
 
 format:

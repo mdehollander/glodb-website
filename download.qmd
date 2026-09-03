@@ -1,0 +1,5 @@
+---
+title: "Download"
+---
+
+Here, you can find all versions of the LSU DB and Pipeline (OTU, ASV, ampliseq). You can also find the newly developed long-read PacBio database.
