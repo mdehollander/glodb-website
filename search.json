@@ -1,23 +1,23 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "glodb-website",
+    "objectID": "download.html",
+    "href": "download.html",
+    "title": "Download",
     "section": "",
-    "text": "This is a Quarto website. Test\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Here, you can find all versions of the LSU DB and Pipeline (OTU, ASV, ampliseq). You can also find the newly developed long-read PacBio database."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "GloDB …"
+    "text": "GloDB …\nReferences\nDelavaux, C. S. et al. Utility of large subunit for environmental sequencing of arbuscular mycorrhizal fungi: a new reference database and pipeline. New Phytologist 229, 3048–3052 (2021).  Delavaux, C. S., Ramos, R. J., Sturmer, S. L. & Bever, J. D. Environmental identification of arbuscular mycorrhizal fungi using the LSU rDNA gene region: an expanded database and improved pipeline. Mycorrhiza 32, 145–153 (2022).  Delavaux, C. S., Ramos, R. J., Stürmer, S. L. & Bever, J. D. An updated LSU database and pipeline for environmental DNA identification of arbuscular mycorrhizal fungi. Mycorrhiza, 1–5 (2024)."
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Please contact us with any questions, bugs, or suggestions!"
+    "text": "Please contact us with any questions, bugs, or suggestions!\nCamille Delavaux - c.delavaux@nioo.knaw.nl"
   }
 ]
