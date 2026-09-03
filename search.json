@@ -2,9 +2,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About GloDB",
+    "title": "About",
     "section": "",
-    "text": "GloDB"
+    "text": "GloDB …"
   },
   {
     "objectID": "index.html",
@@ -12,5 +12,12 @@
     "title": "glodb-website",
     "section": "",
     "text": "This is a Quarto website. Test\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Please contact us with any questions, bugs, or suggestions!"
   }
 ]
